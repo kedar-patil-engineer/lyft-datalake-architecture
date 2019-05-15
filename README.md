@@ -42,6 +42,10 @@ Salesforce CRM, data lake and data warehousing concepts.
 
 - `BAN 622 Project.pdf` - full project report describing the Data Lake architecture
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE).
+
 ## Author
 
 Kedar Patil - MS Business Analytics, California State University, East Bay
